@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KendraB
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Front-End Web Development
+- 👀 I’m interested in ...Business Analyst
+- 🌱 I’m currently learning ... Business Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
