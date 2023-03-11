@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KendraB
-- 👀 I’m interested in ...Business Analyst
-- 🌱 I’m currently learning ... Business Analyst
+- 👋 Hi, I’m @Kendra
+- 👀 I’m interested in Business Analyst
+- 🌱 I’m currently an inspiring Business Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Kendra.Barksdale87@yahoo.com
 
