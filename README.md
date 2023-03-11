@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Business Analyst
 - 🌱 I’m currently learning ... Business Analyst
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Kendra.Barksdale87@yahoo.com
 
 <!---
 Kbark87/Kbark87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
